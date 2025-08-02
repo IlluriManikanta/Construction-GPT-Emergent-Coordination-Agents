@@ -1,4 +1,4 @@
-# Construction-Agent
+# Construction-Agent README
 AI Multi-Agent Competition at the UC Berkeley Agentic AI Summit, sponsored by Schmidt Sciences
 
 We are a team of 3: Haonan Zhu, Yuexing Hao, and Manikanta Illuri. In August 2nd, 2025, we built a multi-agent system, titled "ConstructionAgent," which involves multiple agents in building a 🏠 townhouse. 
