@@ -1,7 +1,7 @@
 # Construction-Agent README
 AI Multi-Agent Competition at the UC Berkeley Agentic AI Summit, sponsored by Schmidt Sciences
 
-We are a team of three: Haonan Zhu, Yuexing Hao, and Manikanta Illuri. On August 2nd, 2025, we developed a multi-agent simulation titled ConstructionAgent, as part of the SSCI Multi-Agent Challenge at the UC Berkeley Agentic AI Summit.
+We are a team of three: Haonan Zhu, Manikanta Illuri and Yuexing Hao. On August 2nd, 2025, we developed a multi-agent simulation titled ConstructionAgent, as part of the SSCI Multi-Agent Challenge at the UC Berkeley Agentic AI Summit.
 
 ConstructionAgent models a system in which four language model-based agents work together to achieve a shared objective: building a townhouse. Each agent is assigned a distinct construction-related task—such as architectural design, structural engineering, landscaping, or instruction documentation. To complete their task, each agent must gather a specific set of tools and resources. However, at the beginning of the simulation, resources are randomly distributed among all four agents, and no agent starts with all the tools they need.
 
